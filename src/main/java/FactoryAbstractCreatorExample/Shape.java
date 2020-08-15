@@ -1,5 +1,5 @@
 package FactoryAbstractCreatorExample;
 
-public interface Shape {
-    public void draw();
+ public interface Shape {
+     public void draw();
 }
